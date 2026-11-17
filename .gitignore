@@ -1,1 +1,9 @@
 node_modules/ 
+.env
+
+uploads/*.pdf
+server-backup*.js
+server_mysql_backup.js
+fix-password.js
+reset-test-password.js
+test-*.js
